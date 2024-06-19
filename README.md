@@ -1,0 +1,1 @@
+Weather Whiz is an intuitive and user-friendly weather application designed to provide accurate and up-to-date weather conditions for cities around the globe. Built using HTML, CSS, and JavaScript, this application leverages the power of the OpenWeatherMap API to fetch and display real-time weather data.
